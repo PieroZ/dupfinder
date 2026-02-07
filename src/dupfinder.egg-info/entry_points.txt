@@ -1,0 +1,2 @@
+[console_scripts]
+dupfinder = dupfinder.cli:main

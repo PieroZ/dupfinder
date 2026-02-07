@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/dupfinder/cache.py
+src/dupfinder/cli.py
+src/dupfinder/hasher.py
+src/dupfinder/models.py
+src/dupfinder/report.py
+src/dupfinder/scanner.py
+src/dupfinder.egg-info/PKG-INFO
+src/dupfinder.egg-info/SOURCES.txt
+src/dupfinder.egg-info/dependency_links.txt
+src/dupfinder.egg-info/entry_points.txt
+src/dupfinder.egg-info/top_level.txt
