@@ -1,0 +1,8 @@
+[images]
+extensions = [".png", ".jpg", ".jpeg", ".bmp", ".tga", ".gif", ".webp"]
+
+[audio]
+extensions = [".wav", ".mp3", ".flac", ".ogg"]
+
+[video]
+extensions = [".mp4", ".mkv", ".avi"]
